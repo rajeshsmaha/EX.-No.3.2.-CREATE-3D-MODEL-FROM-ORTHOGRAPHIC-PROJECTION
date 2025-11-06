@@ -1,7 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## NAME: RAJESHWARAN D
 ## REGISTER NO: 212223040165
-## DATE: 04/10/2025
+## DATE: 27/09/2025
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -44,7 +44,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![edm 3 2 imag](https://github.com/user-attachments/assets/ad7b216d-ad40-429f-b4c7-d235a202846f)
+![edm 3 2 img](https://github.com/user-attachments/assets/0f0a8d3f-d3ad-4139-8977-1c793a60c537)
 
 
 ## RESULT:
